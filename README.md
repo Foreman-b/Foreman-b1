@@ -77,7 +77,7 @@ My passion is **problem solving** and my vision is **to build accessible cloud-f
 
 ## Contact
 - **Email:** hamzat4life@gmail.com  
-- **LinkedIn:** [linkedin.com/in/abdulfatai-hamsat](https://www.linkedin.com/in/abdulfatai-hamsat)  
+- **LinkedIn:** [linkedin.com/in/abdulfataihamsat](https://www.linkedin.com/in/abdulfataihamsat)  
 - **Portfolio:** [sites.google.com/view/abdulfatai-portfolio](https://sites.google.com/view/abdulfatai-portfolio)  
 - **Resume:** [Download Resume](https://drive.google.com/file/d/FILE_ID/view) <!-- Replace FILE_ID with your actual file id -->
 
