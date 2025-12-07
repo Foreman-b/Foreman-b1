@@ -35,7 +35,7 @@ I started in *digital services, graphics, and internet solutions* (2018–presen
 
 *Cloud & DevOps:*  
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" />  
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />  
+<!-- <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />   -->
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />  
 
 *Tools & Productivity:* Microsoft 365, Google Workspace, CorelDRAW, Photoshop  
