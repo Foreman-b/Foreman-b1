@@ -1,4 +1,4 @@
-<h1 align="center">🎉 Abdulfatai Abiola Hamsat</h1>
+<h1 align="center"> Abdulfatai Abiola Hamsat</h1>
 <p align="center">
   <strong>Back-End Developer • AWS Cloud Practitioner Essentials • Founder, Digital Services</strong>
 </p>
