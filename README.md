@@ -76,7 +76,7 @@ I started in *digital services, graphics, and internet solutions* (2018–presen
 ## 📫 Contact
 - ✉️ Email: *hamzat4life@gmail.com*  
 - 🔗 LinkedIn: [linkedin.com/in/abdulfataihamsat](https://www.linkedin.com/in/abdulfataihamsat)  
-- 🌐 Portfolio: [sites.google.com/view/abdulfatai-portfolio](https://sites.google.com/view/abdulfatai-portfolio)  
+- 🌐 Portfolio: [My Portfolio Website](https://foremanbportfolio.onrender.com)
 - 📄 Resume: [Download Resume](https://drive.google.com/file/d/FILE_ID/view) <!-- Replace FILE_ID with your actual file id -->
 
 ---
