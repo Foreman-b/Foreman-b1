@@ -1,4 +1,4 @@
-<h1 align="center">Abdulfatai Abiola Hamsat (Foreman-B)</h1>
+<h1 align="center">Abdulfatai Abiola Hamsat</h1>
 
 <p align="center">
   <strong>Backend Developer | Django Specialist | Cloud Deployment Enthusiast</strong>
@@ -11,7 +11,7 @@
 ---
 
 ## 👋 About Me
-I am a **Junior Back-End Developer** currently training in the **ALX Back-End Web Development program**.  
+I am a **Back-End Developer** currently training in the **ALX Back-End Web Development program**.  
 My background spans **backend engineering, cloud fundamentals, and digital solutions**, with hands-on experience building, deploying, and debugging **production-ready Django applications**.
 
 I am deeply interested in **open-source software, Linux-based systems**, and writing maintainable backend code that scales reliably in real-world environments.
