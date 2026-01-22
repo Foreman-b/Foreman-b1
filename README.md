@@ -104,9 +104,11 @@ Python · Django · PostgreSQL · Gunicorn · WhiteNoise · Render
   <img src="https://github-readme-stats.vercel.app/api?username=Foreman-b&show_icons=true&theme=radical" alt="Foreman-b GitHub stats" />
 </p>
 
+<!--- 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Foreman-b&theme=radical" alt="GitHub Streak" />
 </p>
+--->
 
 <p align="center">
   <strong>Open to collaboration, learning, and backend engineering opportunities</strong>
